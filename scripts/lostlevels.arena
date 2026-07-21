@@ -1,0 +1,139 @@
+{	map		"am_galmevish"
+	longname	"Galmevish Yards"
+	bots		"skelebot grism kyonshi grunt"
+	fraglimit	"20"
+	type		"ffa lms tourney pos"
+}
+{	map		"am_harv-sod"
+	longname	"Skull O' Dome"
+	type		"oneflag harvester elimination dd pos"
+}
+{	map		"am_icyhell"
+	longname	"Icy Hell"
+	type		"ctf oneflag harvester overload elimination ctfelimination dd pos"
+}
+{	map		"am_mckinleyish"
+	longname	"McKinley's Retribution"
+	type		"ctf oneflag harvester overload elimination ctfelimination dd pos"
+}
+{	map		"am_underworks"
+	longname	"Under Working"
+	bots		"assassin skelebot beret soldier"
+	fraglimit	"20"
+	type		"ffa lms team elimination pos"
+}
+{	map		"blitzkrieg2"
+	longname	"Blitzkrieg Sector"
+	bots		"assassin skelebot"
+	fraglimit	"20"
+	type		"ffa lms tourney pos"
+}
+{	map		"dm3ish"
+	longname	"Abandoned Station"
+	bots		"skelebot metalbot"
+	fraglimit	"15"
+	type		"ffa lms tourney pos"
+}
+{	map		"dm4ish"
+	longname	"A Very Bad Place"
+	bots		"angelyss beret liz merman"
+	fraglimit	"30"
+	type		"ffa lms tourney pos"
+}
+{	map		"dm4ishv2"
+	longname	"A Very Bad Place v2"
+	bots		"arachna sorceress"
+	fraglimit	"20"
+	type		"ffa lms tourney pos"
+}
+{	map		"dm17ish"
+	longname	"The Very Long Yard"
+	bots		"ayumi jenna"
+	fraglimit	"15"
+	type		"ffa lms pos"
+}
+{	map		"fan"
+	longname	"The Big Fan Of Death!"
+	bots		"kyonshi beret"
+	fraglimit	"15"
+	type		"ffa lms tourney"
+}
+{	map		"hydronex"
+	longname	"Hydrocapture"
+	type		"ctf oneflag harvester overload elimination ctfelimination dd pos"
+}
+{	map		"kaos"
+	longname	"Khaooohs"
+	bots		"rai kyonshi grism dark"
+	fraglimit	"20"
+	type		"ffa lms team pos"
+}
+{	map		"oa_bases3cl"
+	longname	"Some Bases (Classic)"
+	type		"ctf oneflag harvester overload elimination ctfelimination dd pos"
+}
+{	map		"oa_bases3plus8"
+	longname	"Attacking Base vs. Defending Base"
+	type		"ctf oneflag harvester overload elimination ctfelimination dd pos"
+}
+{	map		"oa_bases5"
+	longname	"Some Other Bases"
+	type		"ctf oneflag harvester overload elimination ctfelimination dd pos"
+}
+{	map		"oa_bod"
+	longname	"Better Off Dead"
+	bots		"sarge major"
+	fraglimit	"20"
+	type		"ffa lms tourney pos"
+}
+{	map		"oa_ctf2old"
+	longname	"Platform Hell (Old)"
+	type		"ctf oneflag harvester overload elimination ctfelimination dd pos"
+}
+{	map		"oa_ctf4ishv2"
+	longname	"Free Space"
+	type		"ctf oneflag harvester overload elimination ctfelimination dd pos"
+}
+{	map		"oa_dm1v2"
+	longname	"Think Twice or Die! XL"
+	bots		"kyonshi sorceress ayumi"
+	fraglimit	"20"
+	type		"ffa lms team elimination dom pos"
+}
+{	map		"oa_dm5v2"
+	longname	"The Cistern"
+	bots		"beret morgan murielle"
+	fraglimit	"20"
+	type		"ffa lms team elimination dom pos"
+}
+{	map		"oa_dm6"
+	longname	"The Darker Zone"
+	bots		"merman"
+	fraglimit	"10"
+	type		"ffa lms tourney pos"
+}
+{	map		"oa_reptctf3"
+	longname	"The Temple of Pain and Sacrifices"
+	type		"ctf oneflag harvester overload elimination ctfelimination dd pos"
+}
+{	map		"ps37ctf"
+	longname	"Obey 37"
+	type		"ctf oneflag harvester overload elimination ctfelimination dd pos"
+}
+{	map		"q3dm6ish"
+	longname	"Q3DM6ish"
+	bots		"kyonshi"
+	fraglimit	"15"
+	type		"ffa lms tourney pos"
+}
+{	map		"suction"
+	longname	"Suction"
+	type		"ffa ctf oneflag harvester overload elimination ctfelimination dd"
+}
+{	map		"void2"
+	longname	"The Place With No Name"
+	bots		"sergei skelebot sarge grunt"
+	fraglimit	"20"
+	type		"ffa lms tourney ctf oneflag harvester overload elimination ctfelimination dd pos"
+}
+
