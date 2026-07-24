@@ -139,7 +139,13 @@ The following levels have been rescued from the SVN:
 
 ## v101 changes
 * Removed rogue sfx.shader
-* **suction**: Removed from 1FCTF and Harvester pools
+* **oa_reptctf3**:
+  * Fixed wrong gametype filtering for the neutral obelisk and Invulnerability.
+  * Increased individual torch lighting.
+  * Added missing flame shaders.
+  * Readjusted lighting, the overall level should be way less darker than before.
+  * Added weapon/item SFX.
+* **suction**: Removed from 1FCTF and Harvester pools.
 
 # Roadmap
 In addition to the, the following levels are also in consideration:
@@ -189,10 +195,7 @@ Some other changes into consideration:
 * **oa_ctf4ish2**: IDEA: Add separate spawnrooms for DD OR remove DD support altogether.
 * **oa_dm1v2**: Use [oad_q1dm1v2](https://www.moddb.com/games/openarena/addons/oad-q1dm1v2-a1-think-twice-or-die) ([MR link](https://www.mapraider.com/maps/openarena/6124/oad_q1dm1v2)) in its stead.
 * **oa_dm5v2**: Fix the lighting.
-* **oa_reptctf3**:
-  * Recheck the placement of the game objectives.
-  * Fix the lighting.
-  * Use [oac_paintemple](https://www.moddb.com/games/openarena/addons/oac-paintemple-a1-the-temple-of-pain-and-sacrifices) ([MR link](https://www.mapraider.com/maps/openarena/6084/oac_paintemple)) in its stead.
+* **oa_reptctf3**: Use [oac_paintemple](https://www.moddb.com/games/openarena/addons/oac-paintemple-a1-the-temple-of-pain-and-sacrifices) ([MR link](https://www.mapraider.com/maps/openarena/6084/oac_paintemple)) in its stead.
 * **ps37ctf**: Use [the 0.8.1 version from the Older Versions Pack](https://www.mapraider.com/maps/openarena/6151/ps37ctf-(0-8-1-version)) in its stead.
 
 ## Not considered
