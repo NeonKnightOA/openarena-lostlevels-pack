@@ -128,7 +128,7 @@
 }
 {	map		"suction"
 	longname	"Suction"
-	type		"ffa ctf oneflag harvester overload elimination ctfelimination dd"
+	type		"ffa ctf overload elimination ctfelimination dd"
 }
 {	map		"void2"
 	longname	"The Place With No Name"

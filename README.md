@@ -137,6 +137,10 @@ The following levels have been rescued from the SVN:
   * Shotgun and Shells in one of the bases replaced with Cells and Plasma Gun.
   * All players, regardless of mode, start with a Shotgun with 200 ammo.
 
+## v101 changes
+* Removed rogue sfx.shader
+* **suction**: Removed from 1FCTF and Harvester pools
+
 # Roadmap
 In addition to the, the following levels are also in consideration:
 
@@ -190,7 +194,6 @@ Some other changes into consideration:
   * Fix the lighting.
   * Use [oac_paintemple](https://www.moddb.com/games/openarena/addons/oac-paintemple-a1-the-temple-of-pain-and-sacrifices) ([MR link](https://www.mapraider.com/maps/openarena/6084/oac_paintemple)) in its stead.
 * **ps37ctf**: Use [the 0.8.1 version from the Older Versions Pack](https://www.mapraider.com/maps/openarena/6151/ps37ctf-(0-8-1-version)) in its stead.
-* **suction**: Remove 1FCTF and Harvester support.
 
 ## Not considered
 These SVN maps, on the other hand, won't be taken into consideration:
